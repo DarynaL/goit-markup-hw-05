@@ -553,15 +553,15 @@ body {
     1px 4px 6px rgba(0, 0, 0, 0.16);
   cursor: pointer;
 }
+.portfolio-link {
+  display: block;
+}
 .portfolio-link:visited {
   color: var(--main-color);
 }
 .portfolio-wrapper {
   position: relative;
   overflow: hidden;
-}
-.portfolio-link {
-  display: block;
 }
 .portfolio-overlay {
   position: absolute;
