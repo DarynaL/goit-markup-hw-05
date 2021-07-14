@@ -555,6 +555,7 @@ body {
 }
 .portfolio-link {
   display: block;
+  color: var(--main-color);
 }
 .portfolio-link:visited {
   color: var(--main-color);
