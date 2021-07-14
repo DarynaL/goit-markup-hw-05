@@ -591,6 +591,7 @@ body {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
+  color: var(--main-color);
 }
 .portfolio-text {
   font-weight: 400;
